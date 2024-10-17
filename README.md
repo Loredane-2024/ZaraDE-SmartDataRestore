@@ -33,11 +33,11 @@ Supports scalability for future data collection and analytical needs.
 
 ## Deliverables
 1) Structured DataFrame
-    A well-organized dataset that encapsulates all essential product details for Zara Woman Germany.
-2) Interactive Tableau Dashboard
-    A visual platform that displays crucial insights such as category distributions, pricing trends, color variety, and inventory levels.
+   A well-organized dataset that encapsulates all essential product details for Zara Woman Germany.
+2) Interactive Tableau Dashboard: [Zara Women Winter 2024](https://public.tableau.com/app/profile/nicole.pinto6998/viz/Zara_Women_2024/Zara_Project?publish=yes)
+   A visual platform that displays crucial insights such as category distributions, pricing trends, color variety, and inventory levels.
 3) Optimized SQL Database
-    A comprehensive and scalable SQL database designed for efficient data organization and future accessibility.
+   A comprehensive and scalable SQL database designed for efficient data organization and future accessibility.
 
 ## Business Insights
 The analysis reveals a strong consumer preference for black and neutral colors, indicating a trend towards timeless and versatile fashion choices.
@@ -47,4 +47,4 @@ The project will also investigate the potential for sentiment analysis to gauge 
 
 ## Conclusion
 This business case highlights the critical need to restore Zara Woman’s data pipeline, enabling leadership to make informed, data-driven decisions in the German market. 
-By integrating web scraping, advanced data visualization, SQL database construction, the project not only aims to recover from the data loss but also to equip Zara Woman with valuable insights that can foster future growth and success.# ZaraDE-SmartDataRestore
+By integrating web scraping, advanced data visualization, SQL database construction, the project not only aims to recover from the data loss but also to equip Zara Woman with valuable insights that can foster future growth and success.
